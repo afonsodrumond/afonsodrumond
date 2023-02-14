@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @afonsodrumond
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning JS, Html and CSS
-- 💞️ I’m looking to do Freelancing
+
 - 📫 Reach me by afonsodrumond.com
